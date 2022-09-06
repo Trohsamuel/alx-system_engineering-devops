@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'All you are coll' | tr "Ac" "Ze"
